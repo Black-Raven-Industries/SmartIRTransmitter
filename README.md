@@ -12,3 +12,5 @@ Meet the Smart IR Transmitter by Black Raven Industries!
 * IR Transmitter
 * Universal compatibility through onboard IR Receiver
 * Compatible with ESPHome
+
+PCB avilable through OSH Park: https://oshpark.com/shared_projects/O5DfmJjS
